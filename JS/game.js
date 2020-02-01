@@ -325,7 +325,7 @@ const game = {
   },
 
   generateZombie() {
-    if (this.zombie.length < 10) {
+    if (this.zombie.length < 80) {
       this.zombie.push(
         new Zombie(
           this.ctx,

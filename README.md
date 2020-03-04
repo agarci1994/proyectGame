@@ -1,4 +1,4 @@
-<p align="center"><img src="https://thumbs.subefotos.com/637aea57d6310ae52840c6d1358464e5o.jpg" alt="Cabecera" width="60%"/></p>
+<p align="center"><img src="https://subefotos.com/ver/?637aea57d6310ae52840c6d1358464e5o.png" alt="Cabecera" width="60%"/></p>
 
 <h2 align="center">
 A small game based on a simple track collecting mechanism. With a climax that combines psychological terror with zombie classics.

@@ -48,4 +48,4 @@ To teammates and to the IronHack Team for their support!
 
 Alejandro García - [alejandro.garci.rodr@gmail.com](alejandro.garci.rodr@gmail.com)
 
-Project Link: [https://github.com/mariasimo/pulp-fiction
+Project Link: [https://github.com/agarci1994/proyectGame/

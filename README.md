@@ -6,7 +6,7 @@ A small game based on a simple track collecting mechanism. With a climax that co
 
 ## About The Project
 
-<p align="center"><img src="https://subefotos.com/ver/?d5bc0c659597e0824d30bff700d5f834o.png" /></p>
+<p align="center"><img src="https://fotos.subefotos.com/d5bc0c659597e0824d30bff700d5f834o.png" /></p>
 
 The Kind of Trippy is the first proyect I made at [Ironhack](https://www.ironhack.com/) Full Stack Web Dev Bootcamp. After two weeks learning the fundamentals of front end, we had a monday to friday week to develop a game of our choice.
 
@@ -14,7 +14,7 @@ The Kind of Trippy is the first proyect I made at [Ironhack](https://www.ironhac
 
 This project is built upon canvas and working with class the javascript. I also did the stage compositions with Photoshop
 
-<p align="center"><img src="https://subefotos.com/ver/?fe710c303cf1d5d47c04de6ac1cd42f3o.png" /></p>
+<p align="center"><img src="https://fotos.subefotos.com/fe710c303cf1d5d47c04de6ac1cd42f3o.png" /></p>
 
 ## Getting Started ⌨️
 

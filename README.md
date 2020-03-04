@@ -1,4 +1,4 @@
-<p align="center"><a href="https://subefotos.com/ver/?637aea57d6310ae52840c6d1358464e5o.png" target="_blank"><img src="http://thumbs.subefotos.com/637aea57d6310ae52840c6d1358464e5o.jpg" /></a></p>
+<p align="center"><a href="https://subefotos.com/ver/?637aea57d6310ae52840c6d1358464e5o.png" target="_blank"><img src="https://fotos.subefotos.com/637aea57d6310ae52840c6d1358464e5o.png" /></a></p>
 
 <h2 align="center">
 A small game based on a simple track collecting mechanism. With a climax that combines psychological terror with zombie classics.

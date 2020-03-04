@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ibb.co/MRJfstL" alt="Cabecera" width="60%"/></p>
+<p align="center"><img src="https://drive.google.com/file/d/1HOF3wT2dEWyYV49ICR1Kl2qOKR0gl77p/view?usp=sharing" alt="Cabecera" width="60%"/></p>
 
 <h2 align="center">
 A small game based on a simple track collecting mechanism. With a climax that combines psychological terror with zombie classics.
